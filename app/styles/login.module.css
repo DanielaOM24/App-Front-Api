@@ -1,0 +1,6 @@
+.loginContainer {
+  display: flex;
+  height: 100vh;
+  background: linear-gradient(135deg, #0d32d8, #d76011);
+  font-family: "Inter", sans-serif;
+}
