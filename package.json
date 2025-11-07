@@ -12,13 +12,21 @@
     "axios": "^1.13.2",
     "next": "16.0.1",
     "react": "19.2.0",
+<<<<<<< HEAD
     "react-dom": "19.2.0",
     "react-hot-toast": "^2.6.0"
+=======
+    "react-dom": "19.2.0"
+>>>>>>> 7979d393f7a08081be96ec8ba37b7fc5d26e4f04
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
+<<<<<<< HEAD
     "@types/react": "19.2.2",
+=======
+    "@types/react": "^19",
+>>>>>>> 7979d393f7a08081be96ec8ba37b7fc5d26e4f04
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.0.1",
