@@ -1,0 +1,14 @@
+[33m6cc4928[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/login[m[33m, [m[1;31morigin/feature/login[m[33m, [m[1;31mcompañero/feature/login[m[33m, [m[1;32mprueba[m[33m)[m HEAD@{0}: checkout: moving from prueba to feature/login
+[33m6cc4928[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/login[m[33m, [m[1;31morigin/feature/login[m[33m, [m[1;31mcompañero/feature/login[m[33m, [m[1;32mprueba[m[33m)[m HEAD@{1}: reset: moving to HEAD
+[33m6cc4928[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/login[m[33m, [m[1;31morigin/feature/login[m[33m, [m[1;31mcompañero/feature/login[m[33m, [m[1;32mprueba[m[33m)[m HEAD@{2}: checkout: moving from feature/login to prueba
+[33m6cc4928[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/login[m[33m, [m[1;31morigin/feature/login[m[33m, [m[1;31mcompañero/feature/login[m[33m, [m[1;32mprueba[m[33m)[m HEAD@{3}: checkout: moving from main to feature/login
+[33mb95c6d3[m[33m ([m[1;32mmain[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{4}: checkout: moving from feature/dashboardStudens to main
+[33m7f2db7d[m[33m ([m[1;31morigin/feature/dashboardStudens[m[33m, [m[1;31mcompañero/feature/dashboardStudens[m[33m, [m[1;32mfeature/dashboardStudens[m[33m)[m HEAD@{5}: checkout: moving from feature/dashboardTeachers to feature/dashboardStudens
+[33m9f3558c[m[33m ([m[1;31morigin/feature/dashboardTeachers[m[33m, [m[1;31mcompañero/feature/dashboardTeachers[m[33m, [m[1;32mfeature/dashboardTeachers[m[33m)[m HEAD@{6}: checkout: moving from feature/login to feature/dashboardTeachers
+[33m6cc4928[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/login[m[33m, [m[1;31morigin/feature/login[m[33m, [m[1;31mcompañero/feature/login[m[33m, [m[1;32mprueba[m[33m)[m HEAD@{7}: reset: moving to HEAD
+[33m6cc4928[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/login[m[33m, [m[1;31morigin/feature/login[m[33m, [m[1;31mcompañero/feature/login[m[33m, [m[1;32mprueba[m[33m)[m HEAD@{8}: pull origin feature/login: Fast-forward
+[33m71f7c66[m HEAD@{9}: reset: moving to HEAD
+[33m71f7c66[m HEAD@{10}: commit: login - register
+[33mb95c6d3[m[33m ([m[1;32mmain[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{11}: checkout: moving from develop to feature/login
+[33mb95c6d3[m[33m ([m[1;32mmain[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{12}: checkout: moving from main to develop
+[33mb95c6d3[m[33m ([m[1;32mmain[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{13}: clone: from https://github.com/DanielaOM24/App-Front-Api.git

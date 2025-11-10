@@ -1,5 +1,4 @@
-
-import "./globals.css"; 
+import "./globals.css";
 import { Provider } from "@/components/ui/provider"
 
 
